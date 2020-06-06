@@ -7,7 +7,7 @@ Run the program in '96TkinterBlackJackVerB26.py'.
 You can decide how many decks to shuffle by changing the number in the entry box number below 'Barajar' Button.
 
 Translation:
-Me Planto - Stay
+Me Planto - Stay.
 Pedir Carta - Hit
 
 It includes stadistics with the probabilities of winning each type of hand player vs dealer. Also shows the count (high/low counting
